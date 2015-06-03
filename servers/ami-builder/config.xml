@@ -19,7 +19,7 @@
       <name>docker</name>
       <templates>
         <com.nirima.jenkins.plugins.docker.DockerTemplate>
-          <image>iwsaas/ami-builder-slave</image>
+          <image>henrysher/ami-builder-slave</image>
           <dockerCommand></dockerCommand>
           <lxcConfString></lxcConfString>
           <hostname></hostname>
