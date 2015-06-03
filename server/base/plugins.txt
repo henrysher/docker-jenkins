@@ -5,7 +5,6 @@ build-name-setter
 build-pipeline-plugin
 copy-data-to-workspace-plugin
 copy-to-slave
-credentials
 docker-plugin
 durable-task
 ec2
